@@ -1,11 +1,11 @@
-Navbar dark color="primary">: Cria uma barra de navegação (navbar) com fundo escuro (dark) e a cor azul padrão (primary).
+- Navbar dark color="primary">: Cria uma barra de navegação (navbar) com fundo escuro (dark) e a cor azul padrão (primary).
 
-NavbarBrand href="/">Ristorante Con Fusion /NavbarBrand>: Exibe o nome "Ristorante Con Fusion" na navbar e 
+- NavbarBrand href="/">Ristorante Con Fusion /NavbarBrand>: Exibe o nome "Ristorante Con Fusion" na navbar e 
 faz com que o clique no nome redirecione para a página inicial (href="/").
 
-div>Aluno: Sergio Rennan /div>: Exibe o texto "Aluno: Sergio Rennan" abaixo da navbar.
+- div>Aluno: Sergio Rennan /div>: Exibe o texto "Aluno: Sergio Rennan" abaixo da navbar.
 
-Como pode ser usado:
+- Como pode ser usado:
 Este código cria uma página simples com uma barra de navegação na parte superior e o nome "Aluno: Sergio Rennan" logo abaixo dela. 
 É uma base que você pode expandir para adicionar mais seções ou funcionalidades ao seu site ou aplicação.
  
