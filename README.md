@@ -1,29 +1,13 @@
-# div aluno sergio rennan="App">
-Erro de sintaxe: Esta linha contém um erro de sintaxe. aluno sergio rennan="App" parece ser um atributo que não segue a convenção de JSX.
-Em JSX, os atributos devem ser definidos corretamente, por exemplo, algo como data-aluno="sergio rennan".
-Como poderia ser utilizado: O que você parece querer fazer é adicionar um atributo personalizado.
+Navbar dark color="primary">: Cria uma barra de navegação (navbar) com fundo escuro (dark) e a cor azul padrão (primary).
 
-# Navbar dark color="primary">
-Explicação: A linha cria um componente de Navbar usando Reactstrap. 
-O Navbar é um componente de barra de navegação, com a opção dark indicando que a navbar deve ter um tema escuro (geralmente com fundo escuro e texto claro).
- A propriedade color="primary" aplica a cor primária do Bootstrap (geralmente um tom de azul) à barra de navegação.
-Como poderia ser utilizado: Este componente de navegação poderia ser usado em um site ou aplicação web para exibir links de navegação, como Home, Sobre, Contato, etc.
+NavbarBrand href="/">Ristorante Con Fusion /NavbarBrand>: Exibe o nome "Ristorante Con Fusion" na navbar e 
+faz com que o clique no nome redirecione para a página inicial (href="/").
 
- # div className="container">
-Explicação: Aqui é criado um div com a classe container do Bootstrap.
- A classe container é usada para centralizar e restringir a largura do conteúdo, proporcionando um layout responsivo.
-Como poderia ser utilizado: A classe container ajuda a estruturar o layout de forma consistente e responsiva, adaptando-se ao tamanho da tela.
+div>Aluno: Sergio Rennan /div>: Exibe o texto "Aluno: Sergio Rennan" abaixo da navbar.
 
-    <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
-Explicação: Este é o componente NavbarBrand do Reactstrap, usado para exibir o nome ou logotipo do site/empresa.
- O atributo href="/" define o link de navegação para a página inicial (a raiz do site), e o texto "Ristorante Con Fusion" é o título ou nome da marca, que será exibido.
-Como poderia ser utilizado: Este componente é útil em qualquer página que tenha uma barra de navegação e deseja exibir o nome da empresa ou site.
-
-#  div>Aluno: sergio rennan </div>
-Explicação: Este div simples contém um texto que indica "Aluno: Sergio Rennan". 
-Ele está fora do contexto da navbar, provavelmente para fins informativos ou educacionais, indicando o nome do aluno no código.
-Como poderia ser utilizado: Pode ser usado para exibir informações sobre o autor do código, ou como uma maneira de personalizar a interface. 
-No caso, parece que é apenas uma referência ao nome do aluno que escreveu o código.
+Como pode ser usado:
+Este código cria uma página simples com uma barra de navegação na parte superior e o nome "Aluno: Sergio Rennan" logo abaixo dela. 
+É uma base que você pode expandir para adicionar mais seções ou funcionalidades ao seu site ou aplicação.
  
 
 ![IMAGEM DO RESUTADO](<WhatsApp Image 2024-11-21 at 19.54.36.jpeg>)
